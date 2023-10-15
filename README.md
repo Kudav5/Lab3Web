@@ -3,9 +3,11 @@
 1. Membuat ordered list
 ![foto](foto/2.png)
 ![foto](foto/3.png)
+
 2. Membuat Unordered list
 ![foto](foto/4.png)
 ![foto](foto/5.png)
+
 3. Membuat Description list
 ![foto](foto/6.png)
 ![foto](foto/7.png)
