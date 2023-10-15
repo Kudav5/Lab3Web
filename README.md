@@ -1,6 +1,6 @@
 # Langkah - langkah Praktikum
 ![foto](foto/1.png)
-1. Membuat ordered list
+### 1. Membuat ordered list
 ![foto](foto/2.png)
 ![foto](foto/3.png)
 
