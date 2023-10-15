@@ -1,4 +1,3 @@
-# coming soon
 ### Langkah - langkah Praktikum
 ![foto](foto/1.png)
 1. Membuat ordered list
